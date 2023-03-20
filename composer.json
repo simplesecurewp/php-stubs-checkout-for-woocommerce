@@ -1,0 +1,21 @@
+{
+    "name": "simplesecurewp/php-stubs-checkout-for-woocommerce",
+    "description": "PHP tags for Checkout for WooCommerce for use in PHPStan",
+    "type": "library",
+    "keywords": [
+	    "wordpress",
+	    "static analysis",
+	    "phpstan"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simple Secure WP",
+            "email": "simplesecurewp@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+	    "php-stubs/wordpress-stubs": "^5.3 || ^6.0"
+    }
+}
